@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ocrApp</string>
+    <string name="file_content">File content</string>
+    <string name="capture_number">Capture number</string>
+</resources>
